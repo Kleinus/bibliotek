@@ -1,0 +1,15 @@
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\bin\Debug\net6.0\Bibliotek_inl.exe
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\bin\Debug\net6.0\Bibliotek_inl.deps.json
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\bin\Debug\net6.0\Bibliotek_inl.runtimeconfig.json
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\bin\Debug\net6.0\Bibliotek_inl.dll
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\bin\Debug\net6.0\Bibliotek_inl.pdb
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\Bibliotek_inl.csproj.AssemblyReference.cache
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\Bibliotek_inl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\Bibliotek_inl.AssemblyInfoInputs.cache
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\Bibliotek_inl.AssemblyInfo.cs
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\Bibliotek_inl.csproj.CoreCompileInputs.cache
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\Bibliotek_inl.dll
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\refint\Bibliotek_inl.dll
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\Bibliotek_inl.pdb
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\Bibliotek_inl.genruntimeconfig.cache
+C:\Users\alexander.klein\Desktop\Bibliotek_inl\Bibliotek_inl\obj\Debug\net6.0\ref\Bibliotek_inl.dll

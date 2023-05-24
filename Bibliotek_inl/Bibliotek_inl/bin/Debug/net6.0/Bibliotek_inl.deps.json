@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bibliotek_inl/1.0.0": {
+        "runtime": {
+          "Bibliotek_inl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bibliotek_inl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
